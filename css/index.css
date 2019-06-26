@@ -1,0 +1,49 @@
+body {
+    margin: 0 auto;
+    width: 960px;
+background-color:#E1E6EA;
+}
+
+h1 {
+    color:#315F86;
+}
+h3 {
+    color:#315F86;
+}
+nav ul {
+    display: block;
+    margin: 27px auto 9px auto;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    font-size: 20px;
+    padding: 10px 60px;
+    background:#315F86;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+div {
+    color:#315F86;
+}
+table
+{
+     color:#315F86;
+}
+img {
+    
+    width: 200px;
+}
+p{
+    color:#315F86;
+}
+
+#fon {
+    display: block;
+    width: 900px;
+    margin: 0 auto;
+}
+
+
